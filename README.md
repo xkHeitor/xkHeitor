@@ -1,6 +1,5 @@
 Hi 👋 My name is Heitor Carvalho
-Backend Developer
-* ✉️  You can contact me at [heitorcarvalhorod@gmail.com](mailto:heitorcarvalhorod@gmail.com)
+================================Backend Developer-----------------* ✉️  You can contact me at [heitorcarvalhorod@gmail.com](mailto:heitorcarvalhorod@gmail.com)
 
 ### Skills
 
