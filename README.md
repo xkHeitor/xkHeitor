@@ -11,6 +11,8 @@ I'm a FullStack Developer, but more focused and lover of Backend <br>
 ### Socials<p align="left"> <a href="https://www.github.com/xkHeitor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xkheitor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/heitor-carvalho-rodrigues-75b3621a0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b> asdas 
 
 <a href="http://www.github.com/xkHeitor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xkHeitor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkHeitor&show_icons=true&theme=dracula)
