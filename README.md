@@ -15,4 +15,4 @@ I'm a FullStack Developer, but more focused and lover of Backend <br>
 
 <a href="http://www.github.com/xkHeitor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xkHeitor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkHeitor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkHeitor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
