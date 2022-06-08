@@ -2,7 +2,6 @@ Hi 👋 My name is Heitor Carvalho Rodrigues <br>
 ========================================== <br>
 I'm a FullStack Developer, but more focused and lover of Backend <br>
 ------------------------------------------------------------------------ <br>
-* 🌍  I'm based in Maringá - PR <br>
 * ✉️  You can contact me at [heitorcarvalhorod@gmail.com](mailto:heitorcarvalhorod@gmail.com)
 
 ## 🌐Socials
