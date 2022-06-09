@@ -46,3 +46,5 @@ Keyboards:
 	Alt+Shift+8								- Alterar Split
 	Ctrl+Alt+U								- Upper case
 	Ctrl+Alt+L								- Lower case
+
+Ctrl+K Ctrl+O								- Open folders
