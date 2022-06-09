@@ -48,3 +48,4 @@ Keyboards:
 	Ctrl+Alt+L								- Lower case
 
 Ctrl+K Ctrl+O								- Open folders
+Ctrl+Alt+E									- Voltar para último editor usado
