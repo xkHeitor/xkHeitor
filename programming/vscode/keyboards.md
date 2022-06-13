@@ -20,6 +20,7 @@ Keyboards:
 
 	Alt+E											- Vai para explorer
 	Alt+A											- Vai para editors explorer
+	Alt+M											- Minimizar pastas explorer
 	Ctrl+N+E									- Novo arquivo explorer
 	Ctrl+R+N									- Renomear arquivo explorer
 
