@@ -1,6 +1,7 @@
 Keyboards:
 	Ctrl+R										- Reload Window
 	Ctrl+Q										- Fechar arquivo
+	Ctrl+K Ctrl+W							- Fechar todos arquivo
 	Ctrl+(Setas </>)					- Alterar abas
 	Ctrl+T										- Abrir Terminal
 	Ctrl+G										- Ir para linha
