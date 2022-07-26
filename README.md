@@ -20,8 +20,5 @@ I'm a FullStack Developer, but more focused and lover of Backend <br>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xkHeitor&icon=8&color=1)](https://visitcount.itsvg.in)
