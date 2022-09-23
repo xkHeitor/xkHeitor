@@ -1,4 +1,4 @@
-'''
+```
 Docker:
 	https://www.educative.io/blog/mongodb-with-docker
 	sudo docker exec -it mongodb bash
@@ -26,4 +26,4 @@ asdf: (https://blog.logrocket.com/manage-node-js-versions-using-asdf/)
 	asdf install nodejs 14.3.0
 	asdf global nodejs 14.3.0
 	asdf local nodejs 14.3.0
-'''
+```
