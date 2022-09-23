@@ -9,10 +9,10 @@ Docker:
 Git: (https://blog.betrybe.com/git/git-checkout/#1)
 	git reset <idCommmit> or git reset HEAD~1
 	git checkout -b <new branch>
-	git fetch --all 	(buscar todos os ramos de todos os controles remotos)
-	git branch -a		(listar todas as branches remotas)
-	git pull --all		(atualizar branches locais que rastreiam branches remotas)
-	git commit --amend --no-edit (junta com ultimo commit)
+	git fetch --all 		(buscar todos os ramos de todos os controles remotos)
+	git branch -a			(listar todas as branches remotas)
+	git pull --all			(atualizar branches locais que rastreiam branches remotas)
+	git commit --amend --no-edit 	(junta com ultimo commit)
 	git branch | grep -v "master" | xargs git branch -D
 
 adb:
