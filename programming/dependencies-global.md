@@ -1,3 +1,3 @@
  - npm install -g yarn
  - npm install -g npm-check
- - npm outdated
+ - npm outdated | update
