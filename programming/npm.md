@@ -1,3 +1,4 @@
  - npm install -g yarn
  - npm install -g npm-check
  - npm outdated | update
+ - npm cache clear --force
