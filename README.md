@@ -16,4 +16,3 @@ I'm a FullStack Developer, but more focused and lover of Backend <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xkHeitor&icon=8&color=1)](https://visitcount.itsvg.in)
-;
