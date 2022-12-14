@@ -11,8 +11,5 @@ I'm a FullStack Developer, but more focused and lover of Backend <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xkHeitor&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xkHeitor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xkHeitor&icon=8&color=1)](https://visitcount.itsvg.in)
