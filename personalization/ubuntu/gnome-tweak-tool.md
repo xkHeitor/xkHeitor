@@ -12,3 +12,4 @@
  - sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
  - Themes ohmyzsh (https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
     - Aplicando tema (sudo nano .zshrc)
+- ZSH Terminal Theme install (https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)
