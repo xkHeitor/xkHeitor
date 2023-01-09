@@ -1,6 +1,4 @@
-Hi My name is Heitor Carvalho Rodrigues <br>
-========================================== <br>
-I'm a FullStack Developer, but more focused and lover of Backend <br>
+Hello, I'm a Full Stack Developer, but more focused and backend lover
 ------------------------------------------------------------------------ <br>
 * You can contact me at [heitorcarvalhorod@gmail.com](mailto:heitorcarvalhorod@gmail.com)
 ## Socials
