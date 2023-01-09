@@ -1,4 +1,4 @@
-Hello, I'm a Full Stack Developer, but more focused and backend lover
+Hello, I'm a Full Stack Developer, but more focused and backend lover <br>
 ------------------------------------------------------------------------ <br>
 * You can contact me at [heitorcarvalhorod@gmail.com](mailto:heitorcarvalhorod@gmail.com)
 ## Socials
