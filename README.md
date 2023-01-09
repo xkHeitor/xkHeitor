@@ -8,7 +8,6 @@ I'm a FullStack Developer, but more focused and lover of Backend <br>
  
 # GitHub Stats: 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xkHeitor&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xkHeitor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xkHeitor&icon=8&color=1)](https://visitcount.itsvg.in)
