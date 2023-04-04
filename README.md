@@ -1,5 +1,5 @@
 Hello, I'm a Full Stack Developer, but more focused and backend lover <br>
------------------------------------------------------------------------- <br>
+---------------------------------------------------------------------------------------------- <br>
  
 # GitHub Stats: 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xkHeitor&theme=tokyonight&hide_border=false)<br/>
