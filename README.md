@@ -42,6 +42,6 @@
 
 <img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&langs_count=8&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
 <div align="right">
-<img height="210px" src="https://github-readme-stats.vercel.app/api?username=xkheitor&show_icons=true&custom_title=Heitor's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=xkHeitor&theme=dracula&hide_border=true)](https://git.io/streak-stats">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xkheitor&show_icons=true&custom_title=Heitor's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=xkHeitor&theme=dracula&hide_border=true)](https://git.io/streak-stats">
 </div>
