@@ -17,7 +17,7 @@
 </samp>
 
 <a href="https://discord.com/users/319908473267683328">
-  <img src="https://lanyard.cnrad.dev/api/319908473267683328" align="right">
+  <img src="https://lanyard.cnrad.dev/api/319908473267683328" align="right" style="max-width: 90%;height: 190px;">
 </a>
 
 ### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
