@@ -40,8 +40,8 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FxkHeitor&label=views&labelColor=%23000000&countColor=%23ba68c8)
 
-<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&langs_count=8&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
+<img align="left" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&langs_count=8&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
 <div align="right">
   <img height="200px !important" src="https://github-readme-stats.vercel.app/api?username=xkheitor&show_icons=true&custom_title=Heitor's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
-  <img height="200px !important" src="https://github-readme-streak-stats.herokuapp.com?user=xkHeitor&theme=dracula&hide_border=true)](https://git.io/streak-stats">
+  <img height="180px !important" src="https://github-readme-streak-stats.herokuapp.com?user=xkHeitor&theme=dracula&hide_border=true)](https://git.io/streak-stats">
 </div>
