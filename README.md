@@ -1,4 +1,4 @@
-## Hello World! <img src="Assets/earth.gif" width="25px" height="25px"/>
+## Hello World!
 
 <img src="Assets/banner.gif" cite="https://galoupop.tumblr.com/image/145423398021">
 
