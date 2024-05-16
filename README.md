@@ -22,7 +22,7 @@
 
 ### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
 
-- 🌱  Learning many things;
+- 🌱  Learning different things;
 - 🎧  I'm always listening music;
 - 💻  Backend Developer in Training and work in the area;
 - 🎓  Currently focused on the backend area;
