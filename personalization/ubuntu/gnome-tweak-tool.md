@@ -13,3 +13,4 @@
  - Themes ohmyzsh (https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
     - Aplicando tema (sudo nano .zshrc)
 - ZSH Terminal Theme install (https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)
+- GTK Theme Nordic (https://www.gnome-look.org/p/1267246/?ref=itsfoss.com)
