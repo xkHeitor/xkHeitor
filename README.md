@@ -44,13 +44,7 @@ Currently improving skills in **software architecture, clean code and system des
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=xkHeitor&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
   />
 </p>
 
