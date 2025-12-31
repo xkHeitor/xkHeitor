@@ -34,22 +34,6 @@ Currently improving skills in **software architecture, clean code and system des
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xkheitor&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 <p align="center">
   <img
     src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FxkHeitor&label=views&labelColor=000000&countColor=ba68c8"
