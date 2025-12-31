@@ -27,7 +27,9 @@ Currently improving skills in **software architecture, clean code and system des
 ## ⚙️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,expressjs,go,docker,postgres,mongodb,redis,rabbitmq,graphql,aws,linux,git,githubactions,jest,nginx&perline=9" />
+  <img
+    src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,expressjs,go,docker,postgres,mongodb,redis,rabbitmq,graphql,aws,linux,git,githubactions,jest,nginx&perline=9"
+  />
 </p>
 
 ---
@@ -35,16 +37,27 @@ Currently improving skills in **software architecture, clean code and system des
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xkheitor&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=xkHeitor&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=xkheitor&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&langs_count=8&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=xkHeitor&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkheitor&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FxkHeitor&label=views&labelColor=000000&countColor=ba68c8" />
+  <img
+    src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FxkHeitor&label=views&labelColor=000000&countColor=ba68c8"
+  />
 </p>
